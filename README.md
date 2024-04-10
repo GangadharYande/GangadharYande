@@ -22,19 +22,6 @@
   <a href="https://hashnode.com/@Gangadhar907" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Gangadhar907/">
-    <img align="left"  src="https://codeforces.org/s/33419/images/codeforces-sponsored-by-ton.png" />
-  </a>
-  
-  <a href="https://www.interviewbit.com/profile/gangadhar-yande/">
-    <img align="left"src="https://www.interviewbit.com/_next/static/media/brand.6cf9233b.svg" />
-  </a>
-  
-   <a href="https://stackoverflow.com/users/22415008/gangadhar-yande">
-    <img align="left"src="https://github.com/GangadharYande/Profile-Assets/blob/main/Stack_Overflow%20(1).png" />
-  
-  </a>
-
   <br>
   <br>
 
