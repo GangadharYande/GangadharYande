@@ -21,7 +21,7 @@
 <a href="https://github.com/GangadharYande/GangadharYande" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GangadharYande"/></a>
 </p>
 
-<h3 align="left">Languages and tools :</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <br><br><br>
